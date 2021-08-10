@@ -1,3 +1,5 @@
+dont use the default key as it will not work . use other key that are not used
+
 1. disable ai thinking
 
 bind p "toggle ai_disabled 0 1"
