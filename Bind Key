@@ -1,0 +1,5 @@
+1. disable ai thinking
+
+bind p "toggle ai_disabled 0 1"
+
+
